@@ -1,5 +1,5 @@
 = Welcome to Azure Architecture Starter Pack
-:navtitle: Welcome
+:navtitle: Azure Architecture Starter Pack 
 
 
 This is the automatic start page for version *{page-component-display-version} of Azure Architecture Starter Pack.
